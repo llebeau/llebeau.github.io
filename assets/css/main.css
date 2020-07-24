@@ -1,5 +1,8 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic|Source+Code+Pro:400");
+
 
 /*
 	Read Only by HTML5 UP
@@ -1556,7 +1559,7 @@
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Lato", sans-serif;
+		font-family: "Roboto", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -1801,7 +1804,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Montserrat;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -1867,7 +1870,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Montserrat;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -1972,7 +1975,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Montserrat;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2085,7 +2088,7 @@
 				ul.feature-icons li:before {
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: Montserrat;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -2841,7 +2844,7 @@
 					#titleBar .toggle:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
-						font-family: FontAwesome;
+						font-family: Montserrat;
 						font-style: normal;
 						font-weight: normal;
 						text-transform: none !important;
