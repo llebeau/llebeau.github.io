@@ -2561,7 +2561,7 @@
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 0;
+						border: 2px;
 						color: #4acaa8 !important;
 						display: block;
 						padding: 0.85em 0;
