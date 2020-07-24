@@ -1896,7 +1896,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #989898;
 			border-color: #989898;
-			color: #ffffff;
+			color: #fffffa;
 			content: '\f00c';
 		}
 
@@ -2097,7 +2097,7 @@
 				ul.feature-icons li:before {
 					background: #4acaa8;
 					border-radius: 100%;
-					color: #ffffff;
+					color: #fffffa;
 					display: block;
 					height: 2.5em;
 					left: 0;
@@ -2283,7 +2283,7 @@
 		background-color: #989898;
 		border-radius: 5px;
 		border: 0;
-		color: #ffffff !important;
+		color: #fffffa !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
@@ -2300,7 +2300,7 @@
 		input[type="button"]:hover,
 		.button:hover {
 			background-color: #a5a5a5;
-			color: #ffffff !important;
+			color: #fffffa !important;
 		}
 
 		input[type="submit"]:active,
@@ -2383,7 +2383,7 @@
 		input[type="button"].special,
 		.button.special {
 			background-color: #4acaa8;
-			color: #ffffff !important;
+			color: #fffffa !important;
 		}
 
 			input[type="submit"].special:hover,
@@ -2464,7 +2464,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #FFFFFF;
+		background: #fffffa;
 		color: #4acaa8;
 		height: 100%;
 		overflow-y: auto;
@@ -2614,7 +2614,7 @@
 /* Footer */
 
 	#footer {
-		background: #ffffff;
+		background: #fffffa;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
@@ -2850,7 +2850,7 @@
 
 					#titleBar .toggle:before {
 						background: #4acaa8;
-						color: #ffffff;
+						color: #fffffa;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
