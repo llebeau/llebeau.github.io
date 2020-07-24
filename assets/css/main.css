@@ -2023,12 +2023,12 @@
 			}
 
 		.image.avatar {
-			border-radius: 15px;
+			border-radius: 0px;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 15px;
+				border-radius: 0px;
 				display: block;
 				width: 100%;
 			}
